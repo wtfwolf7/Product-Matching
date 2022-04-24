@@ -11,4 +11,4 @@ The dataset contains 3153 shelf images, and 300 product images corresponding to 
 
 Dataset source - https://storage.googleapis.com/open_source_datasets/product_detection_from_packshots.tar.gz
 # Implementation
-The detailed implementation can be found here - 
+The detailed implementation can be found here - https://github.com/wtfwolf7/Product-Matching/blob/e19de1f16399acdcafa686e815213bfc1576f795/implementation.ipynb
